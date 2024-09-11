@@ -1,9 +1,14 @@
-﻿namespace _05Acesso;
+﻿using System;
 
-class Program
+namespace _05Acesso
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            
+            Product p1 = new Product();
+
+        }
     }
 }
