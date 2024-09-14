@@ -27,7 +27,7 @@ namespace ProgAssincrona
             }
             Console.WriteLine($"Finalizando operação {op}...");
         }
-        
+
         static void ExecutarSequencial()
         {
             RealizarOperacao(1, "Marco", "Tulio");
